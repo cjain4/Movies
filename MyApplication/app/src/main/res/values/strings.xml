@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Favourite Movies</string>
+    <string name="ButtonAdd">Add Movie</string>
+    <string name="ButtonEdit">Edit</string>
+    <string name="ButtonDelete">Delete Movie</string>
+    <string name="ButtonYear">Show List by Year</string>
+    <string name="ButtonRating">Show List by Rating</string>
+    <string name="textViewDesc">Description:</string>
+    <string name="textViewGenre">Genre:</string>
+    <string name="textView_Rate">Rating:</string>
+    <string name="buttonAddMovie">Add Movie</string>
+    <string name="buttonSaveChanges">Save Changes</string>
+    <string name="textViewTitle">Title:</string>
+    <string name="textViewResultRating">/5</string>
+    <string name="textViewGenreResult" />
+    <string name="textViewRating">Rating:</string>
+    <string name="textViewRate" />
+    <string name="textViewYear">Year:</string>
+    <string name="textViewYearResult" />
+    <string name="textViewIMDB">IMDB:</string>
+    <string name="textVIewIMDBResult" />
+    <string name="buttonFInish">FInish</string>
+    <string name="description_first"></string>
+    <string name="description_next"></string>
+    <string name="description_last"></string>
+    <string name="description_previous"></string>
+    <string name="moviebyyear">Movies by Year</string>
+    <string name="name">Name</string>
+    <string name="year">Year</string>
+
+
+    <string-array name="spinnerItems">
+        <item>Select</item>
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Documentry</item>
+        <item>Family</item>
+        <item>Horror</item>
+        <item>Crime</item>
+        <item>Others</item>
+    </string-array>
+</resources>
